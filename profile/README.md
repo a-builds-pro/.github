@@ -14,6 +14,6 @@
 * Интеграция форм заявок, мессенджеров и аналитики.
 
 ### 📩 Связаться и заказать сайт
-* **Telegram:** [@abuilds.pro](https://t.me)
-* **Email:** abuilds.pro@gmail.com
+* **Telegram:** [@a-builds.pro](https://t.me)
+* **Email:** a-builds.pro@gmail.com
 * **Сайт:** [a-builds.pro](https://a-builds.pro)
